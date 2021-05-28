@@ -1,7 +1,6 @@
 package com.example.foodorderingwebapplication.model;
 
-public enum UsersRole {
-
+public enum UserRoles {
     ADMIN,
     USER
 }
